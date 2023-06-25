@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read_TitleProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>114bbcbb-9e42-41b4-b6b1-1ebfb46db744</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f2c93bea-020e-4c48-a520-b8bc1834c5c0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Products'</defaultValue>
+      <description></description>
+      <id>f2c93bea-020e-4c48-a520-b8bc1834c5c0</id>
+      <masked>false</masked>
+      <name>Expected</name>
+   </variable>
+</TestCaseEntity>

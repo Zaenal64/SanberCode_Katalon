@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read_Text_Copyright</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53a7db62-379c-4dd3-89df-9c371fa32be5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1ff8fbc2-db3a-4aa0-bae2-719b507fca7c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1ff8fbc2-db3a-4aa0-bae2-719b507fca7c</id>
+      <masked>false</masked>
+      <name>Expected</name>
+   </variable>
+</TestCaseEntity>

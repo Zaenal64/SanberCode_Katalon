@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read_ProductName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b567bc6-f82e-4794-af37-bb37a829b355</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>839d0504-46ea-4885-a75d-eb65b027e8b0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sauce Labs Fleece Jacket'</defaultValue>
+      <description></description>
+      <id>839d0504-46ea-4885-a75d-eb65b027e8b0</id>
+      <masked>false</masked>
+      <name>Expected</name>
+   </variable>
+</TestCaseEntity>

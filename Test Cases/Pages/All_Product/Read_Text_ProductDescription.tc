@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read_Text_ProductDescription</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83cd4ab8-77ee-4ac5-b284-059453fc2689</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c11edbf3-216d-44bd-9902-faa4337d28b3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'It\'s not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.'</defaultValue>
+      <description></description>
+      <id>c11edbf3-216d-44bd-9902-faa4337d28b3</id>
+      <masked>false</masked>
+      <name>Expected</name>
+   </variable>
+</TestCaseEntity>

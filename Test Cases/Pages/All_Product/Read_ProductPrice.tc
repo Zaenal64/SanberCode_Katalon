@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read_ProductPrice</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7717a858-9b90-420f-abe2-f9a8c9060d34</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>63401fab-1698-46eb-9266-20536df34ed3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'$49.99'</defaultValue>
+      <description></description>
+      <id>63401fab-1698-46eb-9266-20536df34ed3</id>
+      <masked>false</masked>
+      <name>Expected</name>
+   </variable>
+</TestCaseEntity>

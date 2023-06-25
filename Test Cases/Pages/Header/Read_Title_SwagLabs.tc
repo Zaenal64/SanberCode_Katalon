@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read_Title_SwagLabs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e576a5e4-fac7-4596-95f8-87427932abb0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>31a2657b-0615-462a-9f7c-370537bec87a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>31a2657b-0615-462a-9f7c-370537bec87a</id>
+      <masked>false</masked>
+      <name>Expected</name>
+   </variable>
+</TestCaseEntity>
