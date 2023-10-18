@@ -3,7 +3,7 @@
    <description></description>
    <name>Icon_Twitter</name>
    <tag></tag>
-   <elementGuidId>1ea98f41-bf02-4f57-825f-199bbf510fc1</elementGuidId>
+   <elementGuidId>6a42159e-4e9a-4986-b3bc-cbdeae9b9ab6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>98289992-be7a-4b15-a468-1a75ba96ef88</webElementGuid>
+      <webElementGuid>9e5211ee-a0f2-4e6a-8e82-2bea11be8323</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
       <value>https://twitter.com/saucelabs</value>
-      <webElementGuid>5d58669a-ac4a-4d70-b99e-631966c7f61d</webElementGuid>
+      <webElementGuid>b1827e5d-7c14-4b1e-9542-c05d475eb854</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>00232780-103d-4ebf-aba3-b645d4a4d668</webElementGuid>
+      <webElementGuid>40c57d41-6937-41b0-8f24-3ec009e15bdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer</value>
-      <webElementGuid>17b00fec-a46b-48fd-91a4-a808172a9c51</webElementGuid>
+      <webElementGuid>2182628a-dee9-4955-9999-6a6a39bea23f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Twitter</value>
-      <webElementGuid>826fa510-1ac4-48b2-b856-35bc373ee103</webElementGuid>
+      <webElementGuid>56adb253-2a5e-4061-b138-5b7b3ef29f4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;page_wrapper&quot;)/footer[@class=&quot;footer&quot;]/ul[@class=&quot;social&quot;]/li[@class=&quot;social_twitter&quot;]/a[1]</value>
-      <webElementGuid>b30a69ab-10ed-42bf-a94d-5b3fdd35bc8e</webElementGuid>
+      <webElementGuid>860d4c77-9fef-4194-be45-6a5f2f8b53f0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='page_wrapper']/footer/ul/li/a</value>
-      <webElementGuid>b46426ce-e753-406c-a77b-e589504a05da</webElementGuid>
+      <webElementGuid>74d17507-31e7-4f15-9492-b3c6e9481f02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Twitter')]</value>
-      <webElementGuid>bca5b721-66b2-4bc6-9246-7235498a1721</webElementGuid>
+      <webElementGuid>93a83ee3-2435-48a6-97fe-2ce53496e085</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[6]/following::a[1]</value>
-      <webElementGuid>02866382-c707-4703-8505-8772e352cbac</webElementGuid>
+      <webElementGuid>89839ae1-7541-4daf-8017-5a7df4269ae1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$15.99'])[2]/following::a[1]</value>
-      <webElementGuid>f0d40ef5-c9b2-4fa4-9bf2-20c17eaa737f</webElementGuid>
+      <webElementGuid>b7d5b46f-fbb6-4ed1-8ad4-97fc4a8de01f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::a[1]</value>
-      <webElementGuid>a45a523e-d8bd-4457-9666-106b88cb0722</webElementGuid>
+      <webElementGuid>bc0c0847-bd9b-4756-9dd6-8f1014eff12f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='LinkedIn'])[1]/preceding::a[2]</value>
-      <webElementGuid>d91f356f-551a-41b4-85a8-63d7023cfd1a</webElementGuid>
+      <webElementGuid>9b2d5155-3f9e-4d80-9dfe-82a79a244f08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Twitter']/parent::*</value>
-      <webElementGuid>78cf1fea-38f2-4537-b9af-627879d21344</webElementGuid>
+      <webElementGuid>b6c8c137-32bb-4538-8bcf-ed534c1bf363</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://twitter.com/saucelabs')]</value>
-      <webElementGuid>dc5ab244-711a-4524-b031-4816f69d6f3f</webElementGuid>
+      <webElementGuid>78719613-4a70-4c91-9026-5cb4bc1bc7e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>3bc688c5-b052-4c54-82b3-74579815063a</webElementGuid>
+      <webElementGuid>6ccc387d-a614-42cb-be3b-b1d9999fdead</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://twitter.com/saucelabs' and (text() = 'Twitter' or . = 'Twitter')]</value>
-      <webElementGuid>3937c739-6c76-4370-9664-e2112dc07f3c</webElementGuid>
+      <webElementGuid>d52d7fb1-aae6-48fc-8c92-66ee764fa7ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

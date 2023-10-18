@@ -3,7 +3,7 @@
    <description></description>
    <name>Icon_Facebook</name>
    <tag></tag>
-   <elementGuidId>626cf227-42c9-48d8-aaaa-5aa609586cd5</elementGuidId>
+   <elementGuidId>5d93ec6a-c215-4186-a101-94788c2ac82f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c828ba05-feb1-4dab-a562-27715b62fba5</webElementGuid>
+      <webElementGuid>3e3c011a-303a-43f2-977a-626b9da350af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
       <value>https://www.facebook.com/saucelabs</value>
-      <webElementGuid>7c96d4b8-180f-4f4f-874c-a8f3e4e2f3e0</webElementGuid>
+      <webElementGuid>03b8248e-4744-423c-a2b5-e67c7e264036</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>861cba3f-2b0e-42b8-8647-92030325be67</webElementGuid>
+      <webElementGuid>3d0d6f34-72a7-4193-9003-c1105f94d6e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer</value>
-      <webElementGuid>0075aace-63ac-41b4-b240-5ae9a4343f44</webElementGuid>
+      <webElementGuid>8e4c17a4-63cb-4e3d-85f9-c0f569ba295c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Facebook</value>
-      <webElementGuid>ceeb8906-ba7f-4232-b5ee-36a792839b8f</webElementGuid>
+      <webElementGuid>b8822597-5b34-4a4f-971b-123b4f2fe59b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;page_wrapper&quot;)/footer[@class=&quot;footer&quot;]/ul[@class=&quot;social&quot;]/li[@class=&quot;social_facebook&quot;]/a[1]</value>
-      <webElementGuid>4021b79f-6969-471a-94e1-20ed93ef182a</webElementGuid>
+      <webElementGuid>bb33a60c-5d29-4b72-8cde-73595c8e75d4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='page_wrapper']/footer/ul/li[2]/a</value>
-      <webElementGuid>46727b69-d540-45d0-9a7e-5d373a8272d1</webElementGuid>
+      <webElementGuid>230c3888-6951-4519-88ed-e8991d4fb93a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Facebook')]</value>
-      <webElementGuid>5e69d98e-8dff-4cc2-b2f2-b3bcd6edfd45</webElementGuid>
+      <webElementGuid>347395d2-005b-46e8-8ef8-5a7951d18474</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/following::a[1]</value>
-      <webElementGuid>d42354c6-2ed9-4f8e-8e60-00409bcda548</webElementGuid>
+      <webElementGuid>c1a164c9-72b9-46f3-a326-e14ebc4b85e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[6]/following::a[2]</value>
-      <webElementGuid>8730252c-f181-478c-b796-277bee0bbd56</webElementGuid>
+      <webElementGuid>b6a4d267-548c-40b2-8609-3ca18f6d226d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='LinkedIn'])[1]/preceding::a[1]</value>
-      <webElementGuid>e72d4851-3a00-40aa-b1ae-9306f58f23d0</webElementGuid>
+      <webElementGuid>65ce468d-dc0e-4adf-951f-3b6beb4bc2ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Facebook']/parent::*</value>
-      <webElementGuid>4be26762-7e53-434a-bd85-288c2e8a2fbd</webElementGuid>
+      <webElementGuid>a9c37db0-93c3-413b-8215-59bfe3e19e60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://www.facebook.com/saucelabs')]</value>
-      <webElementGuid>be7aa96f-4090-4ff0-8035-52840e8d5af0</webElementGuid>
+      <webElementGuid>94be3ff0-6de9-4dc1-ab77-d779b2e61b47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a</value>
-      <webElementGuid>50fc9797-dabc-4953-a475-435b49ad5f16</webElementGuid>
+      <webElementGuid>72c97609-eaed-4e41-9ada-e92e082d6d81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://www.facebook.com/saucelabs' and (text() = 'Facebook' or . = 'Facebook')]</value>
-      <webElementGuid>f13755c8-926d-476b-a202-ac795b60e8f2</webElementGuid>
+      <webElementGuid>23a28004-c676-4b9d-a451-966b133d5503</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>LG06 - User want to login with locked account</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>c835ed65-c4a0-4d2d-a978-235d6aa96c52</testCaseGuid>
-</TestCaseEntity>

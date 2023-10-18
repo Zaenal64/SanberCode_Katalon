@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Product_Image</name>
+   <name>ProductImage_Detail</name>
    <tag></tag>
-   <elementGuidId>c5e04ee8-13ef-4b8c-95e8-e08e747cd1c0</elementGuidId>
+   <elementGuidId>0d15f4bc-351c-4e3e-baa6-2303caf01133</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='item_5_img_link']/img</value>
+         <value>//div[@id='inventory_item_container']/div/div/div/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#item_5_img_link > img.inventory_item_img</value>
+         <value>img.inventory_details_img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>76157f2d-9b13-438c-b256-b37b7c70df84</webElementGuid>
+      <webElementGuid>c8a9898b-2093-4332-aef5-29902dd75b35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>alt</name>
       <type>Main</type>
       <value>Sauce Labs Fleece Jacket</value>
-      <webElementGuid>752f3558-7de2-4e56-967a-e6fd58c7bc24</webElementGuid>
+      <webElementGuid>2a583066-801f-4e27-a4b5-ce64ef1b0495</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>inventory_item_img</value>
-      <webElementGuid>81e480b7-fcbb-42bf-9b93-1f9181d104bb</webElementGuid>
+      <value>inventory_details_img</value>
+      <webElementGuid>2c2847e7-02c7-483a-9e8c-84533e1f486b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,23 +46,23 @@
       <name>src</name>
       <type>Main</type>
       <value>/static/media/sauce-pullover-1200x1500.51d7ffaf.jpg</value>
-      <webElementGuid>fe4e2f83-cf82-4be4-92e2-72df64033248</webElementGuid>
+      <webElementGuid>6d2fc4dc-e6ae-45f5-bd0c-5fa219626a0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;item_5_img_link&quot;)/img[@class=&quot;inventory_item_img&quot;]</value>
-      <webElementGuid>9886fe85-0839-415c-94a7-8598ce3e056e</webElementGuid>
+      <value>id(&quot;inventory_item_container&quot;)/div[@class=&quot;inventory_details&quot;]/div[@class=&quot;inventory_details_container&quot;]/div[@class=&quot;inventory_details_img_container&quot;]/img[@class=&quot;inventory_details_img&quot;]</value>
+      <webElementGuid>c3cf2da6-e2fb-4234-9751-94f36ad69c9e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//a[@id='item_5_img_link']/img</value>
-      <webElementGuid>3d4b3b99-caf0-4f72-9e00-eba37a1eb75b</webElementGuid>
+      <value>//div[@id='inventory_item_container']/div/div/div/img</value>
+      <webElementGuid>20c2efa5-286e-4d1b-922d-a7329323d31f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,15 +70,15 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Sauce Labs Fleece Jacket']</value>
-      <webElementGuid>0c36d0ad-f639-4bfe-a5ba-cd9a0be364b9</webElementGuid>
+      <webElementGuid>6eeb9b8f-71a5-4c67-9e57-de43dfa04b4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/a/img</value>
-      <webElementGuid>53e3e33f-422a-419e-8b32-f95a0f5b0597</webElementGuid>
+      <value>//div[2]/div/div/div/img</value>
+      <webElementGuid>b629165d-43e0-4edc-bd1a-89152182078a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'Sauce Labs Fleece Jacket' and @src = '/static/media/sauce-pullover-1200x1500.51d7ffaf.jpg']</value>
-      <webElementGuid>89f92420-81ad-4dea-a9f8-bdfdfac8e62e</webElementGuid>
+      <webElementGuid>236ee47d-af26-4a69-ae9f-6bcdd1d855ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>Icon_LinkedIn</name>
    <tag></tag>
-   <elementGuidId>20b579e7-7404-459d-8a63-889946c97e5f</elementGuidId>
+   <elementGuidId>7934cf0f-98a8-4ce7-900e-bd77e4756ecd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>43a139b8-543b-429a-abb3-dbfb0a16e278</webElementGuid>
+      <webElementGuid>1b027810-ee27-41a3-9b26-e489522af020</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
       <value>https://www.linkedin.com/company/sauce-labs/</value>
-      <webElementGuid>76b05736-7882-4948-9a8b-8419a82859f8</webElementGuid>
+      <webElementGuid>b0d0d696-a79b-492a-aab0-ec4984a5534b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
-      <webElementGuid>24753034-599d-47e6-a481-a746a7cd87f3</webElementGuid>
+      <webElementGuid>a6836586-9c23-4c5f-b36d-1f96e88d8ef8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noreferrer</value>
-      <webElementGuid>96d0ce1c-b80c-435d-a2cf-0ba47e4fe2c3</webElementGuid>
+      <webElementGuid>10ca0544-e10d-4b8b-8b6a-2b6367f9c3a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>LinkedIn</value>
-      <webElementGuid>cfc73d6f-4f91-4439-8ce3-e9355c5eee0b</webElementGuid>
+      <webElementGuid>09b15491-8bc2-41ba-8b61-dec553b1da75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;page_wrapper&quot;)/footer[@class=&quot;footer&quot;]/ul[@class=&quot;social&quot;]/li[@class=&quot;social_linkedin&quot;]/a[1]</value>
-      <webElementGuid>336a247e-293f-4f59-bafb-0274d8296bc7</webElementGuid>
+      <webElementGuid>d7992941-1054-4810-acaf-f8084b805984</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='page_wrapper']/footer/ul/li[3]/a</value>
-      <webElementGuid>ea4a9ba2-5302-41fa-9cee-eae088a52356</webElementGuid>
+      <webElementGuid>de605cb4-0450-4333-8376-b7f7d75b8dab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'LinkedIn')]</value>
-      <webElementGuid>17e0d8a4-162c-4c85-baf3-72e34bee736c</webElementGuid>
+      <webElementGuid>2419fd2a-c792-42cb-971a-171485e52e95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/following::a[1]</value>
-      <webElementGuid>399e09a5-018c-4979-9b17-30ff2c17b35f</webElementGuid>
+      <webElementGuid>4fa21bd7-93e9-4359-8f25-e4fd681fac43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/following::a[2]</value>
-      <webElementGuid>2662eacc-3da7-4274-8536-956eb6d285ac</webElementGuid>
+      <webElementGuid>5d4006b4-f663-4668-94a3-8297ea0b7f4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::a[1]</value>
-      <webElementGuid>fce22b47-9705-4dea-ab37-d161bf6e3c97</webElementGuid>
+      <webElementGuid>22473f3a-fd06-4917-9e83-fb8d45119c7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='LinkedIn']/parent::*</value>
-      <webElementGuid>c7a89afc-6db3-4627-8476-0871462d19fc</webElementGuid>
+      <webElementGuid>79855998-d54f-40f9-878e-182aeda03e24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://www.linkedin.com/company/sauce-labs/')]</value>
-      <webElementGuid>079b6cfd-3a5c-4a7f-96fa-79bf2a413e93</webElementGuid>
+      <webElementGuid>9392b4e6-2247-461d-9470-87de0a5a9698</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a</value>
-      <webElementGuid>f3ef5df1-c6b7-442a-ad18-f1842db72071</webElementGuid>
+      <webElementGuid>6836edea-494a-4bdb-9975-ff4a146d2041</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://www.linkedin.com/company/sauce-labs/' and (text() = 'LinkedIn' or . = 'LinkedIn')]</value>
-      <webElementGuid>22ba21aa-5ebc-4275-bd57-307e7a88af22</webElementGuid>
+      <webElementGuid>0b7c7d2b-d15b-431e-ad98-fa2abcb67ed5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

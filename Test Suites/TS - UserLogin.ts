@@ -15,49 +15,42 @@
       <guid>bd958546-f249-4627-a405-dde6aa5378c2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Step Defenition/Login/LG01 - User want to login with credential</testCaseId>
+      <testCaseId>Test Cases/Step Defenition/Login/TC-LG001- User want to login with credential</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>d282084b-a76d-4378-b505-bec6c7f27c25</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Step Defenition/Login/LG02 - User want to login without input password</testCaseId>
+      <testCaseId>Test Cases/Step Defenition/Login/TC-LG002- User want to login without input password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>da144228-3536-448c-85e5-ee2e00e66d9f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Step Defenition/Login/LG03 - User want to login without input username</testCaseId>
+      <testCaseId>Test Cases/Step Defenition/Login/TC-LG003- User want to login without input username</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>b3643352-ad85-4fb5-bb44-78c00adebf28</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Step Defenition/Login/LG04 - User want to login with wrong input password</testCaseId>
+      <testCaseId>Test Cases/Step Defenition/Login/TC-LG004- User want to login with wrong input password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>c3c0720e-ec27-4f1e-be18-552e9bd84c99</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Step Defenition/Login/LG05 - User want to login with wrong input username</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>09c3d12f-c990-44a0-92e6-fc63252aa128</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Step Defenition/Login/LG06 - User want to login with locked account</testCaseId>
+      <testCaseId>Test Cases/Step Defenition/Login/TC-LG001- User want to login with wrong input username</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>7876c679-09b2-4b99-b8f1-33c5428984fb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Step Defenition/Login/LG07 - User want to login without input username and password</testCaseId>
+      <testCaseId>Test Cases/Step Defenition/Login/TC-LG001- User want to login without input username and password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

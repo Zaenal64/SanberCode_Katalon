@@ -19,3 +19,8 @@ build
 console.properties
 settings/
 *.prj
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
